@@ -1,0 +1,10 @@
+[package]
+name = "touch-control-handling"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+chrono = "0.4"
+rusb = "0.9"
+serialport = "4.5"
+probe-rs = "0.24"
